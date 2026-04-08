@@ -1,0 +1,4 @@
+Model,Test Acc,Test F1,Train F1,Overfit Gap,CV F1 mean,CV F1 std
+Logistic Regression,0.86,0.865,0.897,0.032,0.868,0.05
+Decision Tree,0.744,0.754,0.871,0.116,0.754,0.098
+Random Forest,0.814,0.803,1.0,0.197,0.811,0.092
