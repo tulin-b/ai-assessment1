@@ -8,6 +8,4 @@ This notebook trains a supervised machine learning model to classify whether a g
 **Target variable:** `status` (Placed / Not Placed)  
 **Type:** Binary classification
 
-Note: This is one of 5 total notebooks. Please check the other notebooks for further project investigations. 
-
 AI Disclosure: The free tier of Claude Sonnet 4.6 was used for code generation support in developing this LLM classification model. All notebook markdown, final evaluation, and code execution/debugging are my own. No other AI was used.
